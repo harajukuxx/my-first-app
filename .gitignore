@@ -1,0 +1,18 @@
+# Dependency
+node_modules/
+
+# Secrets
+.env
+*.pem
+
+# Log files
+*.log
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+secret.txt
